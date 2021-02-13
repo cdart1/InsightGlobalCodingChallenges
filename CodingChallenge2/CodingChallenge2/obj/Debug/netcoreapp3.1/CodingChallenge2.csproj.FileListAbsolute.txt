@@ -1,0 +1,13 @@
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.exe
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.deps.json
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.runtimeconfig.json
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.runtimeconfig.dev.json
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.dll
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.pdb
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.csprojAssemblyReference.cache
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.AssemblyInfoInputs.cache
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.AssemblyInfo.cs
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.csproj.CoreCompileInputs.cache
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.dll
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.pdb
+C:\Repos\InsightGlobalCodingChallenges\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.genruntimeconfig.cache
